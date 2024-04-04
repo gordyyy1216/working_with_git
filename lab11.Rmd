@@ -292,7 +292,7 @@ Much like when pulling remote changes when same files have been modified, **merg
 
 We have created a separate branch on the remote that will conflict with this version
 
-Do the following in the terminal and head to the GUI to resolve the conflict:
+Do the following in the terminal and head to the GUI to resolve the conflict. A conflict happens when the same line is edited in two separate instances.
 
 ```         
 git pull origin conflict
